@@ -1,0 +1,83 @@
+.navbar {
+    font-weight: 700;
+}
+.navbar img {
+    width: 50%;
+}
+section{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 8%;
+}
+.container{
+    margin-bottom: 100px;
+}
+button {
+    padding: 5px;
+}
+.carseoul-bg{
+    background-color: #4a1ce0;
+    color: white;
+    border-radius: 10px;
+}
+.carousel-item img{
+    width: 50%;
+}
+.cat1,.cat2,.cat3 {
+    padding: 20px 20px;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 6%;
+}
+.seeall{
+    color: orange;
+}
+.card{
+    box-shadow: 10px 20px 20px gray;
+    border-radius: 10px;
+}
+.card img {
+    padding-top: 30px;
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.card-body{
+    text-align: center;
+}
+#categories{
+    text-align: center;
+}
+#categories img {
+    width: 60%;
+    padding: 20px 0px;
+}
+hr {
+    width: 10%;
+    text-align: center;
+    margin: 0 auto;
+    border: 5px solid;
+    border-radius: 17px;
+    color: orange;
+    opacity: 1;
+    margin-bottom: 10%;
+}
+.box1,.box2{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px 20px 5px 20px;
+    box-shadow: 1px 1px 30px gray;
+    background-color: white;
+}
+.box1 {
+    margin-bottom: 30px;
+}
+#categories .box3 img {
+    width: 100%;
+}
+footer {
+    text-align: center;
+}
